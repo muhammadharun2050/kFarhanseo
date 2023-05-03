@@ -1,8 +1,10 @@
 $ amader keyword research er somoy " long tail, short and mid keyword" rakte hobe . amader ke " warm research,old research and competitor research " korte hobe.
 $ "KGR (keyword golden ratio )". search on google " allintitle: your keyword" . jodi competitor kon thake ar search volume besi thake tahole ak diner vitr rank korte pare.
-$ "keyword serarch sesh korar age" amader every keyword google country base search  korte hobe.tarpor dekhe bujte hobe keyword ti kno brand ki na .abar dekte hobe " domain er age koto" . domain boyos joto besi hobe take sorie rank kora toto kotin hobe.
+$ "keyword serarch sesh korar age" amader every keyword google country base search  korte hobe.tarpor dekhe bujte hobe keyword ti kno brand ki na .abar dekte hobe " domain er age koto" . domain boyos joto besi hobe take sorie rank kora toto kotin hobe. tahole amaderke oi keyword gulo excel thake sorie felte hobe.
+
 ##end here kyword research##
 
                             $->keyword tracking $
 
 $ for keywor tracking " tap project options"
+$ "setup google analytics" for keyword tracking .
