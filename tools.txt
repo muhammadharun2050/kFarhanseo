@@ -1,1 +1,2 @@
 $ searchvolume.io //for free show keyword searchvolume
+$ "header footer code manager" //plugins for setup google analytics code
