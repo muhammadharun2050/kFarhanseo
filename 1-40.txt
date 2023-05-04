@@ -8,4 +8,10 @@ $ "keyword serarch sesh korar age" amader every keyword google country base sear
 
 $ for keywor tracking " tap project options"
 $ "setup google analytics" for keyword tracking .
-$
+$"setup google console" // for more info and data about your website
+    $"https://search.google.com/
+    $add your domain "url prefix" not domain
+$ technical seo 
+    $ site audit,
+    site:example.com // এই ডর্কের মাধ্যামে আমরা দেখতে পারবো সাইটে কতগুলো পেজ আছে।
+    $তারপর semrush or ahref tools এর মাধ্যমে সাইট audit দিতে হবে।যাতে আমরা জানতে পারি সাইটে কোনো সমস্যা আছে কি না
