@@ -9,7 +9,7 @@ $ "keyword serarch sesh korar age" amader every keyword google country base sear
 $ for keywor tracking " tap project options"
 $ "setup google analytics" for keyword tracking .
 $"setup google console" // for more info and data about your website
-    $"https://search.google.com/
+    $"https://search.google.scom/
     $add your domain "url prefix" not domain
 $ technical seo 
     $ site audit,
@@ -37,4 +37,9 @@ $robots.txt file
 #"text to html ratio"
 # "orpahn link " ei dhoraner link ke mader main kono page a link korete hobe , or amader ke menu hesebe dakhate hobe or page remove kore dete hobe,
 #kono share link jodi boro hoy, tahone choto kore anger kore dete hobe.
+# "duplicate content / duplicate page" 
+    <link rel="canonical" href="https://example.com/" />
+    উপরেরে এই লিংকটা যেই page deuplicate সেই page গিয়ে আমরা yeast seo এর advance options এ গেলে  ক্যানোনিক্যান option পাব , সেখাবে paste করে দিব।
 
+                                    $on page seo" $
+       
