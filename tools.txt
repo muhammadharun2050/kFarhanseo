@@ -1,2 +1,4 @@
 $ searchvolume.io //for free show keyword searchvolume
 $ "header footer code manager" //plugins for setup google analytics code
+$ "realy simple ssl " plugins for ssl certificate
+$ "yoast seo" //for sitemap instlall
