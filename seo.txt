@@ -42,4 +42,6 @@ $robots.txt file
     উপরেরে এই লিংকটা যেই page deuplicate সেই page গিয়ে আমরা yeast seo এর advance options এ গেলে  ক্যানোনিক্যান option পাব , সেখাবে paste করে দিব।
 
                                     $on page seo" $
-       
+# পেজে আমাদের কিওয়্যার্ডটা মেটা-টাইটেল আর মেটা-ড্রেসস্ক্রিপশনে থাকতে হবে। যেটা আমরা yeast seo দিয়ে দিয়ে দিতে পারবো।
+#"keyword density" akti keyword akta page a kota bar use koret hobe? 
+    ans: amader top 10 competitor je keybar use korce toto bar, ba tar ceye akbar besi.
