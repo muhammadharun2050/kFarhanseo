@@ -45,3 +45,5 @@ $robots.txt file
 # পেজে আমাদের কিওয়্যার্ডটা মেটা-টাইটেল আর মেটা-ড্রেসস্ক্রিপশনে থাকতে হবে। যেটা আমরা yeast seo দিয়ে দিয়ে দিতে পারবো।
 #"keyword density" akti keyword akta page a kota bar use koret hobe? 
     ans: amader top 10 competitor je keybar use korce toto bar, ba tar ceye akbar besi.
+# "keyword cannibalization" একটি কিওয়্যার্ডটা অন্য কিওয়্যার্ডটাকে খেয়ে ফেলা। একাধিক কিওয়্যার্ডটাকে একটি url-কে টার্গেট করা যাবে। কিন্তু একটি কিওয়্যার্ডটা একাধিক url কে টার্গেট করা যাবে না।
+#
