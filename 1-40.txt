@@ -27,8 +27,8 @@ $robots.txt file
 #404 error page  redirect 301 
     eta korar jnno amader " 301 redirect plugin install " korte hibe. tar jnno
     site setting -> 301 redirect ->(/) porer broken link ->r distanation link 
-    
+
 # "aternative text " or "alltext" ei dhoroner problem er jnno apnke jete hobe  " media " te.     zekhabe apneke alter native text field a apner product er name dete hobe. otha ba elementor deye image er oper click korle " alltext filed " a name likhe dwoya jai.
 
-    
+# " meta title and meta description" // for meta title ans metadescription we use "yeast seo" plugins . go all page/post -> thne give show meta tile and meta description.
     
