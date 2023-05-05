@@ -35,3 +35,6 @@ $robots.txt file
 #  "duplicate meta title and meta description"  for meta title ans metadescription we use "yeast seo" plugins . go all page/post -> thne give show meta tile and meta description. একটা ওয়েবসাইটে একটা h1 tag, আর একটা title Tag  থাকবে বাকিগুলো h2 -h7 tag দিতে হবে।
 
 #"text to html ratio"
+# "orpahn link " ei dhoraner link ke mader main kono page a link korete hobe , or amader ke menu hesebe dakhate hobe or page remove kore dete hobe,
+#kono share link jodi boro hoy, tahone choto kore anger kore dete hobe.
+
